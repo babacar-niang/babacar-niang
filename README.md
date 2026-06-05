@@ -67,7 +67,7 @@ My experience ranges from sovereign bond platforms for the Senegalese State to m
 
 ## Currently
 
-- 🚀 Building **SantéLink** — Healthcare SaaS for clinics in Senegal
+- 🚀 Building **SantéLink** Healthcare SaaS for clinics in Senegal
 - 🌍 Open to Senior Backend Engineer opportunities in Europe and Remote
 
 ---
