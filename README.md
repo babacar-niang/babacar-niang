@@ -7,7 +7,7 @@ Building payment systems, financial ledgers and event-driven platforms.
 
 <section style="width: 100%; display: flex;">
   <img align="left" src="https://komarev.com/ghpvc/?username=babacar-niang&color=FF7A8A&style=for-the-badge" alt="Profile Views" style="max-width: 49%;"/>
-  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=3154m5be7qwisatpmgd3b5xundtq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light"" alt="Spotify Profile" style="max-width: 49%;"/>
+  
 <section><br><br><br><br>
 
 
@@ -68,7 +68,7 @@ My experience ranges from sovereign bond platforms for the Senegalese State to m
 ## Currently
 
 - 🚀 Building **SantéLink** — Healthcare SaaS for clinics in Senegal
-- 🌍 Seeking Senior Backend opportunities
+- 🌍 Open to Senior Backend Engineer opportunities in Europe and Remote
 
 ---
 
