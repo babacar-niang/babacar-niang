@@ -7,7 +7,7 @@ Building payment systems, financial ledgers and event-driven platforms.
 
 <section style="width: 100%; display: flex;">
   <img align="left" src="https://komarev.com/ghpvc/?username=babacar-niang&color=FF7A8A&style=for-the-badge" alt="Profile Views" style="max-width: 49%;"/>
-  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=3154m5be7qwisatpmgd3b5xundtq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify Profile" style="max-width: 49%;"/>
+  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=3154m5be7qwisatpmgd3b5xundtq&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=light"" alt="Spotify Profile" style="max-width: 49%;"/>
 <section><br><br><br><br>
 
 
@@ -74,7 +74,7 @@ My experience ranges from sovereign bond platforms for the Senegalese State to m
 
 ## Contact
 
-[![Linkedin](linkedin-svgrepo-com.svg)](https://www.linkedin.com/in/babacar-niang-swe)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Linkedin](linkedin.png)](https://www.linkedin.com/in/babacar-niang-swe)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Mail](mail.svg)](mailto:babacar.bniang@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Discord](discord.svg)](https://discordapp.com/users/babsfullstack)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Instagram](instagram.svg)](https://www.instagram.com/babsfullstack97)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Instagram](instagram.png)](https://www.instagram.com/babsfullstack97)&nbsp;&nbsp;&nbsp;&nbsp;
