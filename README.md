@@ -78,4 +78,4 @@ My experience ranges from sovereign bond platforms for the Senegalese State to m
 ## Contact
 
 [![Linkedin](linkedin.png)](https://www.linkedin.com/in/babacar-niang-swe)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Mail](mail.svg)](mailto:babacar.bniang@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Mail](gmail.png)](mailto:babacar.bniang@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
