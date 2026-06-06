@@ -49,8 +49,11 @@ My experience ranges from sovereign bond platforms for the Senegalese State to m
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=babacar-niang&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babacar-niang&layout=compact&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=babacar-niang&theme=github-dark-blue)](https://git.io/streak-stats)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Java+%7C+Spring+Boot+%7C+Kafka+%7C+Kubernetes;Financial+Infrastructure+Engineer;Building+production-grade+fintech+systems)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=babacar-niang&color=blue&style=flat-square&label=Profile+Views)
 
 ---
 
@@ -76,5 +79,3 @@ My experience ranges from sovereign bond platforms for the Senegalese State to m
 
 [![Linkedin](linkedin.png)](https://www.linkedin.com/in/babacar-niang-swe)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Mail](mail.svg)](mailto:babacar.bniang@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Discord](discord.svg)](https://discordapp.com/users/babsfullstack)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Instagram](instagram.png)](https://www.instagram.com/babsfullstack97)&nbsp;&nbsp;&nbsp;&nbsp;
