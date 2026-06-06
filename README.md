@@ -5,18 +5,17 @@
 Senior Backend Engineer | Fintech Infrastructure | Distributed Systems
 Building payment systems, financial ledgers and event-driven platforms.
 
-<section style="width: 100%; display: flex;">
-  <img align="left" src="https://komarev.com/ghpvc/?username=babacar-niang&color=FF7A8A&style=for-the-badge" alt="Profile Views" style="max-width: 49%;"/>
-  
-<section><br><br><br><br>
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
 
 
 ---
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring](https://img.shields.io/badge/Spring_Boot-3.x-green)
-![Kafka](https://img.shields.io/badge/Kafka-Event_Driven-black)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+
 
 ## About
 
@@ -49,9 +48,9 @@ My experience ranges from sovereign bond platforms for the Senegalese State to m
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=babacar-niang&theme=github-dark-blue)](https://git.io/streak-stats)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=500&lines=Java+%7C+Spring+Boot+%7C+Kafka+%7C+Kubernetes;Financial+Infrastructure+Engineer;Building+production-grade+fintech+systems)](https://git.io/typing-svg)
+| | |
+|---|---|
+| [![GitHub Streak](https://streak-stats.demolab.com?user=babacar-niang&theme=github-dark-blue)](https://git.io/streak-stats) | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Java+%7C+Spring+Boot+%7C+Kafka+%7C+Kubernetes;Financial+Infrastructure+Engineer;Building+production-grade+fintech+systems)](https://git.io/typing-svg) |
 
 ![Profile Views](https://komarev.com/ghpvc/?username=babacar-niang&color=blue&style=flat-square&label=Profile+Views)
 
@@ -70,7 +69,6 @@ My experience ranges from sovereign bond platforms for the Senegalese State to m
 
 ## Currently
 
-- 🚀 Building **SantéLink** Healthcare SaaS for clinics in Senegal
 - 🌍 Open to Senior Backend Engineer opportunities in Europe and Remote
 
 ---
