@@ -50,7 +50,7 @@ My experience ranges from sovereign bond platforms for the Senegalese State to m
 
 | | |
 |---|---|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=babacar-niang&theme=java-dark)](https://git.io/streak-stats) | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Java+%7C+Spring+Boot+%7C+Kafka+%7C+Kubernetes;Financial+Infrastructure+Engineer;Building+production-grade+fintech+systems)](https://git.io/typing-svg) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=babacar-niang&theme=github-dark-blue)](https://git.io/streak-stats) | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Java+%7C+Spring+Boot+%7C+Kafka+%7C+Kubernetes;Financial+Infrastructure+Engineer;Building+production-grade+fintech+systems)](https://git.io/typing-svg) |
 
 ![Profile Views](https://komarev.com/ghpvc/?username=babacar-niang&color=blue&style=flat-square&label=Profile+Views)
 
